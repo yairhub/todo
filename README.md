@@ -1,4 +1,9 @@
-##Description
+## Description
+-a react todo list front-end app with crud operations using html5 drag and drop.
+-connected to a todo api
+
+all you need to do is "npm install" and thats it!!! you can save todos
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
