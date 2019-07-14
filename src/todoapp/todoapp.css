@@ -1,0 +1,36 @@
+ .todo{
+    color:green;
+    background-color:#fff;
+    border: 1px solid green;
+    -webkit-box-shadow: 6px 10px 15px 1px rgba(52,87,59,1);
+-moz-box-shadow: 6px 10px 15px 1px rgba(52,87,59,1);
+box-shadow: 6px 10px 15px 1px rgba(52,87,59,1);
+  }
+
+  .done{
+    color:grey;
+    background-color:#fff;
+    border: 1px solid grey;
+    -webkit-box-shadow: 6px 10px 15px 1px rgba(69,69,68,1);
+    -moz-box-shadow: 6px 10px 15px 1px rgba(69,69,68,1);
+    box-shadow: 6px 10px 15px 1px rgba(69,69,68,1);
+  }
+  .listName{
+    font-size:18px;
+    cursor: pointer;
+    color:rgb(61, 61, 248);
+  }
+  .listName:hover{
+    color:green;
+    content: "dragg me"; 
+  }
+  .manage img{
+    cursor:pointer;
+  }
+  input:focus{
+    outline-color:green;
+  }
+  .removeSub:hover {
+    color:red;
+  }
+ 
